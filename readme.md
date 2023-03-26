@@ -1,0 +1,1 @@
+for the models I am planing to use the gpt-3.5 model. To access it, /v1/chat/completions/.

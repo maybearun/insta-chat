@@ -1,1 +1,3 @@
-for the models I am planing to use the gpt-3.5 model. To access it, /v1/chat/completions/.
+# InstaChat
+
+this project uses openai chat completion api and instagram sdks to implement a AI in instagram DMs
